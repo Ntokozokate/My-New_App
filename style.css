@@ -5,3 +5,12 @@ h1 {
 #gitEm {
   color: rgb(162, 70, 3);
 }
+img {
+  width: 75%;
+  display: block;
+  border-radius: 15px;
+  margin: 20px auto;
+}
+body {
+  background-color: darkgray;
+}
